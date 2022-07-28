@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Documents\GitHub\MergeSort-vs-QuickSort\MergeSort-vs-QuickSort\main.cpp(24,22): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\Documents\GitHub\MergeSort-vs-QuickSort\MergeSort-vs-QuickSort\main.cpp(27,33): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const int', possible loss of data
+D:\Documents\GitHub\MergeSort-vs-QuickSort\MergeSort-vs-QuickSort\main.cpp(33,33): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\Documents\GitHub\MergeSort-vs-QuickSort\MergeSort-vs-QuickSort\main.cpp(39,22): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\Documents\GitHub\MergeSort-vs-QuickSort\MergeSort-vs-QuickSort\main.cpp(43,22): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  MergeSort-vs-QuickSort.vcxproj -> D:\Documents\GitHub\MergeSort-vs-QuickSort\x64\Debug\MergeSort-vs-QuickSort.exe
